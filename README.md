@@ -1,5 +1,7 @@
 # ScrabbleSearch
-Scrabble move enumerator using just C++17.
+Scrabble move enumerator using just C++17. 
+
+The project file uses Visual Studio for Windows, but I imagine it should be simple to port to other platforms. Just delete trace.cpp/h and use `std::cout` instead of `trace`.
 
 I wrote this code to help work on this challenge:
 https://puzzling.stackexchange.com/questions/100614/largest-smallest-unattainable-score-in-scrabble
