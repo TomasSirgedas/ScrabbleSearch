@@ -1,0 +1,2 @@
+# ScrabbleSearch
+Scrabble move enumerator
